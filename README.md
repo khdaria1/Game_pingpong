@@ -10,11 +10,11 @@ To get started with this project, you'll need to clone the repository and set up
 
 ### Cloning the Repository
 
-    git clone https://github.com/Seri1436/game_Pingpong.git
+    git clone https://github.com/Seri1436/game_Ping-pong.git
 
 ### Setting up a Virtual Environment and Activate the virtual environmen
 
-    cd ./game_Pingpong
+    cd ./game_Ping-pong
 
     pyenv versions
 
